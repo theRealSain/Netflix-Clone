@@ -24,7 +24,7 @@ A responsive Netflix Clone built using React.js, showcasing a clean UI with dyna
 
 1. Clone the repository:
    ```bash
-   git clone <repository-url>
+   git clone <https://github.com/theRealSain/netflix-clone>
    ```
 
 2. Navigate to the project directory:
