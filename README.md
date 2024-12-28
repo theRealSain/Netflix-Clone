@@ -90,7 +90,7 @@ https://theRealSain.github.io/netflix-clone/
 
 You can view the live version of the app here:
 
-[**To-Do List App**](https://therealsain.github.io/to-do-list/)
+[**Netflix Clone**](https://therealsain.github.io/netflix-clone/)
 ---
 
 
