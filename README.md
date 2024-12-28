@@ -1,6 +1,6 @@
 # Netflix Clone
 
-![Demo Screenshot](https://github.com/theRealSain/netflix-clone/blob/main/public/page.pngs)
+![Demo Screenshot](https://github.com/theRealSain/netflix-clone/blob/main/public/page.png)
 
 A responsive Netflix Clone built using React.js, showcasing a clean UI with dynamic data rendering and interactive features.
 
