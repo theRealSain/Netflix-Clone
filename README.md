@@ -117,6 +117,3 @@ This project is licensed under the MIT License. See the LICENSE file for details
 - Special thanks to Open Source contributors and the React community.
 
 ---
-``` 
-
-You can copy and paste this markdown code into a README.md file.
