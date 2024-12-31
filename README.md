@@ -57,67 +57,14 @@ A responsive Netflix Clone built using React.js, showcasing a clean UI with dyna
 
 ---
 
-## Deployment
-
-This project can be deployed using GitHub Pages:
-
-1. Install the `gh-pages` package:
-   ```bash
-   npm install gh-pages --save-dev
-   ```
-
-2. Add the following to your `package.json`:
-   ```json
-   "homepage": "https://theRealSain.github.io/netflix-clone",
-   "scripts": {
-     "predeploy": "npm run build",
-     "deploy": "gh-pages -d build"
-   }
-   ```
-
-3. Deploy the app:
-   ```bash
-   npm run deploy
-   ```
-
-The app will be live at:
-```
-https://theRealSain.github.io/netflix-clone/
-```
+## Live Project
+This project is live at:
+- [Netflix Clone](https://therealsain.github.io/netflix-clone)
 
 ---
-## Hosted Link
-
-You can view the live version of the app here:
-
-[**Netflix Clone**](https://therealsain.github.io/netflix-clone/)
----
-
 
 ## Contributing
-
 Contributions are welcome! If you have any ideas or improvements, feel free to open an issue or create a pull request.
-
-1. Fork the repository.
-2. Create a new branch:
-   ```bash
-   git checkout -b feature-name
-   ```
-3. Make your changes and commit them:
-   ```bash
-   git commit -m "Description of changes"
-   ```
-4. Push to your branch:
-   ```bash
-   git push origin feature-name
-   ```
-5. Open a pull request on GitHub.
-
----
-
-## License
-
-This project is licensed under the MIT License. See the LICENSE file for details.
 
 ---
 
